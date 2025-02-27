@@ -1,0 +1,18 @@
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\bin\Debug\Guna.UI2.dll
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Splash.resources
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.login.resources
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.menu.resources
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Emp.resources
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Salary.resources
+C:\Users\HP\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.View.resources
